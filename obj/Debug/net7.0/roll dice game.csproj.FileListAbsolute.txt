@@ -1,0 +1,15 @@
+/Users/mengxuan/Projects/test/roll dice game/bin/Debug/net7.0/roll dice game
+/Users/mengxuan/Projects/test/roll dice game/bin/Debug/net7.0/roll dice game.deps.json
+/Users/mengxuan/Projects/test/roll dice game/bin/Debug/net7.0/roll dice game.runtimeconfig.json
+/Users/mengxuan/Projects/test/roll dice game/bin/Debug/net7.0/roll dice game.dll
+/Users/mengxuan/Projects/test/roll dice game/bin/Debug/net7.0/roll dice game.pdb
+/Users/mengxuan/Projects/test/roll dice game/obj/Debug/net7.0/roll dice game.csproj.AssemblyReference.cache
+/Users/mengxuan/Projects/test/roll dice game/obj/Debug/net7.0/roll dice game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mengxuan/Projects/test/roll dice game/obj/Debug/net7.0/roll dice game.AssemblyInfoInputs.cache
+/Users/mengxuan/Projects/test/roll dice game/obj/Debug/net7.0/roll dice game.AssemblyInfo.cs
+/Users/mengxuan/Projects/test/roll dice game/obj/Debug/net7.0/roll dice game.csproj.CoreCompileInputs.cache
+/Users/mengxuan/Projects/test/roll dice game/obj/Debug/net7.0/roll dice game.dll
+/Users/mengxuan/Projects/test/roll dice game/obj/Debug/net7.0/refint/roll dice game.dll
+/Users/mengxuan/Projects/test/roll dice game/obj/Debug/net7.0/roll dice game.pdb
+/Users/mengxuan/Projects/test/roll dice game/obj/Debug/net7.0/roll dice game.genruntimeconfig.cache
+/Users/mengxuan/Projects/test/roll dice game/obj/Debug/net7.0/ref/roll dice game.dll
